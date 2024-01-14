@@ -1,5 +1,4 @@
-# Radiologist
-#### Interventional and Diagnostic Radiology
+# Interventional and Diagnostic Radiology
 [Download my CV](./another-page.html).
 
 ## Education and Postgraduate Training
@@ -49,10 +48,10 @@ September 1, 2006 – June 30, 2013
 
 ## Publications
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Fellman BM, Jones AK, Kuban JD, Huang SY, Metwalli ZA, Brock KK, Odisio BC. Intraprocedural Versus Initial Follow-up Minimal Ablative Margin Assessment After Colorectal Liver Metastasis Thermal Ablation: Which One Better Predicts Local Outcomes? Invest Radiol. 2023 Oct 9. 
-- Paolucci I, Lin YM, Albuquerque Marques Silva J, Brock KK, Odisio BC. Bayesian parametric models for survival prediction in medical applications. BMC Med Res Methodol. 2023 Oct 26;23(1):250. 
-- Lin YM, Fellman BM, Taiji R, Paolucci I, Silva JAM, Koay EJ, Avritscher R, Mahvash A, Holliday EB, Lee SS, Kaseb AO, Das P, Vauthey JN, Odisio BC. Salvage Locoregional Therapy Following Progression After Radiotherapy for Hepatocellular Carcinoma Is Associated with Improved Outcomes. J Gastrointest Surg. 2023 Jun 2. 
-- Paolucci I, Albuquerque Marques Silva J, Lin YM, Fellman BM, Jones KA, Tatsui CE, Weinberg JS, Ruiz J, Tan J, Brock KK, Bale R, Odisio BC. Study Protocol STEREOLAB: Stereotactic Liver Ablation Assisted with Intra-Arterial CT Hepatic Arteriography and Ablation Confirmation Software Assessment. Cardiovasc Intervent Radiol. 2023 Aug 10. 
-- Lin YM, Paolucci I, O'Connor CS, Anderson BM, Rigaud B, Fellman BM, Jones KA, Brock KK, Odisio BC. Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation. Radiology. 2023 Jan 31:221373. 
+- Paolucci I, **Lin YM**, Albuquerque Marques Silva J, Brock KK, Odisio BC. Bayesian parametric models for survival prediction in medical applications. BMC Med Res Methodol. 2023 Oct 26;23(1):250. 
+- **Lin YM**, Fellman BM, Taiji R, Paolucci I, Silva JAM, Koay EJ, Avritscher R, Mahvash A, Holliday EB, Lee SS, Kaseb AO, Das P, Vauthey JN, Odisio BC. Salvage Locoregional Therapy Following Progression After Radiotherapy for Hepatocellular Carcinoma Is Associated with Improved Outcomes. J Gastrointest Surg. 2023 Jun 2. 
+- Paolucci I, Albuquerque Marques Silva J, **Lin YM**, Fellman BM, Jones KA, Tatsui CE, Weinberg JS, Ruiz J, Tan J, Brock KK, Bale R, Odisio BC. Study Protocol STEREOLAB: Stereotactic Liver Ablation Assisted with Intra-Arterial CT Hepatic Arteriography and Ablation Confirmation Software Assessment. Cardiovasc Intervent Radiol. 2023 Aug 10. 
+- **Lin YM**, Paolucci I, O'Connor CS, Anderson BM, Rigaud B, Fellman BM, Jones KA, Brock KK, Odisio BC. Ablative Margins of Colorectal Liver Metastases Using Deformable CT Image Registration and Autosegmentation. Radiology. 2023 Jan 31:221373. 
 - Mosconi C, O'Rourke J, Kloeckner R, Sturm L, Golfieri R, Celsa C, Fateen W, Odisio BC, Garanzini EM, Peck-Radosavljevic M, Borghi A, Ma YT, Stoehr F, Bettinger D, Giuffrida P, Aithal GP, Lin YM, Spreafico C, Giampalma E, Johnson P, Cucchetti A. Textbook Outcome After Transarterial Chemoembolization for Hepatocellular Carcinoma. Cardiovasc Intervent Radiol. 2023 Feb 27. 
 - Taiji R, Lin YM, Chintalapani G, Lin EY, Huang SY, Mahvash A, Avritscher R, Liu CA, Lee RC, Resende V, Nishiofuku H, Tanaka T, Kichikawa K, Klotz E, Gupta S, Odisio BC. A novel method for predicting hepatocellular carcinoma response to chemoembolization using an intraprocedural CT hepatic arteriography-based enhancement mapping: a proof-of-concept analysis. Eur Radiol Exp. 2023 Jan 30;7(1):4. 
 - Paolucci I, Lin YM, Jones AK, Brock KK, Odisio BC. Use of Contrast Media During CT-guided Thermal Ablation of Colorectal Liver Metastasis for Procedure Planning is Associated with Improved Immediate Outcomes. Cardiovasc Intervent Radiol. 2023 Jan 6. 
