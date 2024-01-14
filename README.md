@@ -14,10 +14,9 @@ Abdominal Radiology Fellow, Department of Radiology, Taipei Veterans General Hos
 
 
 ### Residencies
-- Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan<br>
-August 3, 2015 – August 31, 2019
-- Department of Primary Care Medicine, Mackay Memorial Hospital, Taipei, Taiwan
-August 1, 2013 – July 31, 2014
+- August 3, 2015 – August 31, 2019 <br> Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan
+  
+- August 1, 2013 – July 31, 2014 <br> Department of Primary Care Medicine, Mackay Memorial Hospital, Taipei, Taiwan
 
 ### Medical Internship 
 - Department of Medical Research and Education, Taipei Veterans General Hospital, Taipei, Taiwan
