@@ -1,4 +1,4 @@
-# Radiologist
+## Diagnostic / Interventional Radiologist 
 
 ## Education and Postgraduate Training
 ### Fellowships
@@ -43,7 +43,7 @@ September 1, 2006 – June 30, 2013
 - Reviewer of European Radiology (2017 – 2018)
 
 ## Publications
-- Lin YM, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Fellman BM, Jones AK, Kuban JD, Huang SY, Metwalli ZA, Brock KK, Odisio BC. Intraprocedural Versus Initial Follow-up Minimal Ablative Margin Assessment After Colorectal Liver Metastasis Thermal Ablation: Which One Better Predicts Local Outcomes? Invest Radiol. 2023 Oct 9. 
+- **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Fellman BM, Jones AK, Kuban JD, Huang SY, Metwalli ZA, Brock KK, Odisio BC. Intraprocedural Versus Initial Follow-up Minimal Ablative Margin Assessment After Colorectal Liver Metastasis Thermal Ablation: Which One Better Predicts Local Outcomes? Invest Radiol. 2023 Oct 9. 
 - Paolucci I, Lin YM, Albuquerque Marques Silva J, Brock KK, Odisio BC. Bayesian parametric models for survival prediction in medical applications. BMC Med Res Methodol. 2023 Oct 26;23(1):250. 
 - Lin YM, Fellman BM, Taiji R, Paolucci I, Silva JAM, Koay EJ, Avritscher R, Mahvash A, Holliday EB, Lee SS, Kaseb AO, Das P, Vauthey JN, Odisio BC. Salvage Locoregional Therapy Following Progression After Radiotherapy for Hepatocellular Carcinoma Is Associated with Improved Outcomes. J Gastrointest Surg. 2023 Jun 2. 
 - Paolucci I, Albuquerque Marques Silva J, Lin YM, Fellman BM, Jones KA, Tatsui CE, Weinberg JS, Ruiz J, Tan J, Brock KK, Bale R, Odisio BC. Study Protocol STEREOLAB: Stereotactic Liver Ablation Assisted with Intra-Arterial CT Hepatic Arteriography and Ablation Confirmation Software Assessment. Cardiovasc Intervent Radiol. 2023 Aug 10. 
