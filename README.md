@@ -1,6 +1,6 @@
 ## Education and Postgraduate Training
 ### Fellowships
-'July 01, 2023 – Present'
+July 01, 2023 – Present
 Clinical Fellow, Department of Interventional Radiology, University of Texas MD Anderson Cancer Center, Houston, USA
 
 - Research Fellow, Department of Interventional Radiology, University of Texas MD Anderson Cancer Center, Houston, USA (Supervisor: Dr. Bruno Odisio)
