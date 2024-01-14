@@ -1,11 +1,5 @@
 title: Yuan-Boo Lim
-author:
-  name: Yuan-Boo Lim
-  email: linymmd@gmail.com
-theme: jekyll/minimal
-
-description: >
-  
-
-header_pages:
-  - about.md
+description: [A short description of your site's purpose]
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
