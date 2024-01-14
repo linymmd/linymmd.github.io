@@ -1,4 +1,4 @@
-[Link to another page](./another-page.html).
+[Download my CV](./another-page.html).
 
 ## Education and Postgraduate Training
 ### Fellowships
