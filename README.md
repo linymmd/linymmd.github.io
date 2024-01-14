@@ -1,6 +1,7 @@
 ## Education and Postgraduate Training
 ### Fellowships
 July 01, 2023 – Present
+
 Clinical Fellow, Department of Interventional Radiology, University of Texas MD Anderson Cancer Center, Houston, USA
 
 - Research Fellow, Department of Interventional Radiology, University of Texas MD Anderson Cancer Center, Houston, USA (Supervisor: Dr. Bruno Odisio)
@@ -10,10 +11,10 @@ January 28, 2020 – June 30, 2023
 September 1, 2019 – December 31, 2019
 
 ### Residencies
-- Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan
+- Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan<br>
 August 3, 2015 – August 31, 2019
 - Department of Primary Care Medicine, Mackay Memorial Hospital, Taipei, Taiwan
-- August 1, 2013 – July 31, 2014
+August 1, 2013 – July 31, 2014
 
 ### Medical Internship 
 - Department of Medical Research and Education, Taipei Veterans General Hospital, Taipei, Taiwan
