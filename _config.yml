@@ -1,5 +1,9 @@
 title: Yuan-Mao Lin, MD
-description: [A Radiologist specializing in Diagnostic and Interventional Radiology at The University of Texas MD Anderson Cancer Center in Houston Texas. ]
+description: [Department of Interventional Radiology |							
+The University of Texas MD Anderson Cancer Center	|					
+1400 Pressler St, Houston, TX, 77030 |								
+ylin22@mdanderson.org
+ ]
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
