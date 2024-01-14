@@ -1,6 +1,5 @@
-title: Yuan-Boo Lim
-description: [Yuan-Mao Lin, MD, is a clinical fellow specializing in Diagnostic and Interventional Radiology at The University of Texas MD Anderson Cancer Center in Houston, Texas. Dr. Lin obtained his medical degree and completed his residency in diagnostic radiology at Taipei Veterans General Hospital, Taiwan. Afterward, he joined MD Anderson Cancer Center as a clinician-scientist, focusing on interventional oncology and cancer imaging. He intends to leverage his expertise in imaging interpretation and scientific investigation to enhance cancer imaging and image-guided treatments, with the goal of publishing original radiology research in reputable peer-reviewed journals.]
+title: Yuan-Mao Lin, MD
+description: [A Radiologist specializing in Diagnostic and Interventional Radiology at The University of Texas MD Anderson Cancer Center in Houston Texas. ]
 remote_theme: pages-themes/minimal@v0.2.0
-show_downloads: false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
