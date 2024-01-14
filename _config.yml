@@ -2,9 +2,14 @@ title: Yuan-Boo Lim
 author:
   name: Yuan-Boo Lim
   email: linymmd@gmail.com
+theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 description: >
   
-theme: minima
+
 header_pages:
   - about.md
