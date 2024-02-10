@@ -47,7 +47,7 @@ September 1, 2006 – June 30, 2013
 
 ## Journal Review Activities
 - Radiology: Imaging Cancer (Trainee Editorial Board) (2023 – Present)
-- Reviewer of Abdominal Imaging (2024 - Present)
+- Reviewer of Abdominal Radiology (2024 - Present)
 - Reviewer of Frontiers in Oncology (2023 – Present)
 - Reviewer of European Radiology (2017 – 2018)
 
