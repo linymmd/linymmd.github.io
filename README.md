@@ -1,3 +1,6 @@
+# About me
+I am a Diagnostic and Interventional Radiology Fellow at the University of Texas MD Anderson Cancer Center. See my [Curriculum Vitae](https://linymmd.github.io/CV_YMLin.pdf). Prior to this role, I completed my residency training in diagnostic radiology at Taipei Veterans General Hospital in Taiwan. I actively participate in various clinical research projects, focusing on the application of innovative diagnostic imaging tools and minimally invasive image-guided treatments for cancer patients.
+
 ## Education and Postgraduate Training
 ### Fellowships
 - **Clinical Fellow, Department of Interventional Radiology**, University of Texas MD Anderson Cancer Center, Houston, USA<br>
