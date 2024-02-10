@@ -48,6 +48,7 @@ September 1, 2006 – June 30, 2013
 - Reviewer of European Radiology (2017 – 2018)
 
 ## Publications
+- **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Hong J, Shah KY, Abdelsalam ME, Habibollahi P, Jones KA, Brock KK, Odisio BC. Ablative margin quantification using deformable versus rigid image registration in colorectal liver metastasis thermal ablation: a retrospective single-center study. Eur Radiol. 2024 Feb 9. 
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Fellman BM, Jones AK, Kuban JD, Huang SY, Metwalli ZA, Brock KK, Odisio BC. Intraprocedural Versus Initial Follow-up Minimal Ablative Margin Assessment After Colorectal Liver Metastasis Thermal Ablation: Which One Better Predicts Local Outcomes? Invest Radiol. 2023 Oct 9. 
 - Paolucci I, **Lin YM**, Albuquerque Marques Silva J, Brock KK, Odisio BC. Bayesian parametric models for survival prediction in medical applications. BMC Med Res Methodol. 2023 Oct 26;23(1):250. 
 - **Lin YM**, Fellman BM, Taiji R, Paolucci I, Silva JAM, Koay EJ, Avritscher R, Mahvash A, Holliday EB, Lee SS, Kaseb AO, Das P, Vauthey JN, Odisio BC. Salvage Locoregional Therapy Following Progression After Radiotherapy for Hepatocellular Carcinoma Is Associated with Improved Outcomes. J Gastrointest Surg. 2023 Jun 2. 
