@@ -1,7 +1,11 @@
 # About me
-I am a Diagnostic and Interventional Radiology Fellow at the University of Texas MD Anderson Cancer Center. See my [Curriculum Vitae](https://linymmd.github.io/CV_YMLin.pdf). Prior to this role, I completed my residency training in diagnostic radiology at Taipei Veterans General Hospital in Taiwan. I actively participate in various clinical research projects, focusing on the application of innovative diagnostic imaging tools and minimally invasive image-guided treatments for cancer patients. I love music, cycling, jogging, and travel.
+I am a **Diagnostic and Interventional Radiology** Fellow at the University of Texas MD Anderson Cancer Center. See my [Curriculum Vitae](https://linymmd.github.io/CV_YMLin.pdf). Prior to this role, I completed my residency training in diagnostic radiology at Taipei Veterans General Hospital in Taiwan. I actively participate in various clinical research projects, focusing on the application of innovative diagnostic imaging tools and minimally invasive image-guided treatments for cancer patients. 
 
-## Education and Postgraduate Training
+I received my M.D. from National Yang-Ming University in 2013. I then completed my Diagnostic Radiology residency training at Taipei Veterans General Hospital (2015-2020). Then, I conducted postdoctoral research at the Univeristy of Texas MD Anderson Cancer Center, working with Dr. Bruno Odisio (2020-2023).
+
+I love music, cycling, jogging, and travel.
+
+## Postgraduate Training
 ### Fellowships
 - **Clinical Fellow, Department of Interventional Radiology**, University of Texas MD Anderson Cancer Center, Houston, USA<br>
 July 01, 2023 – Present
@@ -10,22 +14,6 @@ July 01, 2023 – Present
 January 28, 2020 – June 30, 2023
 
 - **Abdominal Radiology Fellow, Department of Radiology**, Taipei Veterans General Hospital, Taipei, Taiwan (Supervisor: Dr. Rheun-Chuan Lee) <br> September 1, 2019 – December 31, 2019
-
-
-### Residencies
-- Department of Radiology, Taipei Veterans General Hospital, Taipei, Taiwan <br>
-August 3, 2015 – August 31, 2019
-  
-- Department of Primary Care Medicine, Mackay Memorial Hospital, Taipei, Taiwan <br>
-August 1, 2013 – July 31, 2014
-
-### Medical Internship 
-- Department of Medical Research and Education, Taipei Veterans General Hospital, Taipei, Taiwan <br>
-June 1, 2012 – May 31, 2013
-
-### Doctor of Medicine (M.D.)
-- School of Medicine, National Yang-Ming University, Taipei, Taiwan <br>
-September 1, 2006 – June 30, 2013
 
 
 ## Honors and Awards
