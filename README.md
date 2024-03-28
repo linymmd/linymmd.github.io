@@ -1,5 +1,5 @@
 # About me
-I am a **Diagnostic and Interventional Radiology** Fellow at the University of Texas MD Anderson Cancer Center. See my **[Curriculum Vitae]**(https://linymmd.github.io/CV_YMLin.pdf). I actively participate in various clinical research projects, focusing on the application of innovative diagnostic imaging tools and minimally invasive image-guided treatments for cancer patients. Currently, I am a memebr Trainee Editorial Board of Radiology Imaging Cancer. 
+I am a **Diagnostic and Interventional Radiology** Fellow at the University of Texas MD Anderson Cancer Center. See my **[Curriculum Vitae](https://linymmd.github.io/CV_YMLin.pdf)**. I actively participate in various clinical research projects, focusing on the application of innovative diagnostic imaging tools and minimally invasive image-guided treatments for cancer patients. Currently, I am a memebr Trainee Editorial Board of Radiology Imaging Cancer. 
 
 I received my M.D. from National Yang-Ming University in 2013. I then completed my Diagnostic Radiology residency training at Taipei Veterans General Hospital (2015-2020). Then, I conducted postdoctoral research at the Univeristy of Texas MD Anderson Cancer Center, working with Dr. Bruno Odisio (2020-2023).
 
