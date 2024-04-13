@@ -17,6 +17,9 @@ January 28, 2020 – June 30, 2023
 
 
 ## Honors and Awards
+- Editor's Recognition Award
+> Radiology: Imaging Cancer (March 2024)
+
 - Oral Presentation Award
 > Trainee Research Day, The University of Texas MD Anderson Cancer Center, Houston, TX, USA (March 2024)
 
