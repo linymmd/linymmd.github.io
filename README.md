@@ -50,6 +50,9 @@ January 28, 2020 – June 30, 2023
 
 ## Publications
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Hong J, Shah KY, Abdelsalam ME, Habibollahi P, Jones KA, Brock KK, Odisio BC. Ablative margin quantification using deformable versus rigid image registration in colorectal liver metastasis thermal ablation: a retrospective single-center study. Eur Radiol. 2024 Feb 9.
+- Paolucci I, Albuquerque Marques Silva J, **Lin YM**, Laimer G, Cignini V, Menchini F ,Meira M, Shieh A, O'Connor C, Jones KA, Gazzera C, Fonio P , Brock KK, Calandri M,
+Menezes M, Bale R, Odisio BC. Identification of A0 minimum ablative margins for colorectal liver metastases: multicentre, retrospective study using deformable CT
+registration and artificial intelligence-based autosegmentation. Br J Surg. 2024 Aug 30.
 - Albuquerque J, **Lin YM**, Paolucci I, O'Connor CS, Tzeng CW, Vauthey JN, Brock KK, Odisio BC. Incidental Ring-hyperenhancing Liver Micronodules at CT Hepatic Arteriography-guided Percutaneous Thermal Ablation of Colorectal Liver Metastases. Radiol Imaging Cancer. 2024 Mar;6(2):e230099.
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Fellman BM, Jones AK, Kuban JD, Huang SY, Metwalli ZA, Brock KK, Odisio BC. Intraprocedural Versus Initial Follow-up Minimal Ablative Margin Assessment After Colorectal Liver Metastasis Thermal Ablation: Which One Better Predicts Local Outcomes? Invest Radiol. 2023 Oct 9. 
 - Paolucci I, **Lin YM**, Albuquerque Marques Silva J, Brock KK, Odisio BC. Bayesian parametric models for survival prediction in medical applications. BMC Med Res Methodol. 2023 Oct 26;23(1):250. 
