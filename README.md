@@ -49,6 +49,7 @@ January 28, 2020 – June 30, 2023
 - Reviewer of European Radiology (2017 – 2018)
 
 ## Publications
+- Odisio BC, Albuquerque J, **Lin YM**, Anderson BM, O'Connor CS, Rigaud B, Briones-Dimayuga M, Jones AK, Fellman BM, Huang SY, Kuban J, Metwalli ZA, Sheth R, Habibollahi P, Patel M, Shah KY, Cox VL, Kang HC, Morris VK, Kopetz S, Javle MM, Kaseb A, Tzeng CW, Cao HT, Newhook T, Chun YS, Vauthey JN, Gupta S, Paolucci I, Brock KK. Software-based versus visual assessment of the minimal ablative margin in patients with liver tumours undergoing percutaneous thermal ablation (COVER-ALL): a randomised phase 2 trial. Lancet Gastroenterol Hepatol. 2025 Mar 13:S2468-1253(25)00024-X.
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Hong J, Shah KY, Abdelsalam ME, Habibollahi P, Jones KA, Brock KK, Odisio BC. Ablative margin quantification using deformable versus rigid image registration in colorectal liver metastasis thermal ablation: a retrospective single-center study. Eur Radiol. 2024 Feb 9.
 - Paolucci I, Albuquerque Marques Silva J, **Lin YM**, Laimer G, Cignini V, Menchini F ,Meira M, Shieh A, O'Connor C, Jones KA, Gazzera C, Fonio P , Brock KK, Calandri M,
 Menezes M, Bale R, Odisio BC. Identification of A0 minimum ablative margins for colorectal liver metastases: multicentre, retrospective study using deformable CT
