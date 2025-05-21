@@ -42,7 +42,7 @@ January 28, 2020 – June 30, 2023
 - Young Investigator Award
 > The 6th Asian Congress of Abdominal Radiology, Busan, Korea (April 2017)
 
-## Journal Review Activities
+## Peer Review Activities
 - Radiology: Imaging Cancer (Trainee Editorial Board) (2023 – Present)
 - Reviewer of Abdominal Radiology (2024 - Present)
 - Reviewer of Frontiers in Oncology (2023 – Present)
