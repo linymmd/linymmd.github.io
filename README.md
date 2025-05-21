@@ -8,7 +8,7 @@ I love music, cycling, jogging, and travel.
 ## Postgraduate Training
 ### Fellowships
 - **Clinical Fellow, Department of Interventional Radiology**, University of Texas MD Anderson Cancer Center, Houston, USA<br>
-July 01, 2023 – Present
+July 01, 2023 – June 30, 2025
 
 - **Research Fellow, Department of Interventional Radiology**, University of Texas MD Anderson Cancer Center, Houston, USA (Supervisor: Dr. Bruno Odisio) <br> 
 January 28, 2020 – June 30, 2023
@@ -18,7 +18,7 @@ January 28, 2020 – June 30, 2023
 
 ## Honors and Awards
 - RSNA R&E Foundation Roentgen Resident/Fellow Research Award
-> RSNA (2024)
+> RSNA (2024 & 2025)
 
 - Editor's Recognition Award
 > Radiology: Imaging Cancer (March 2024)
@@ -46,9 +46,12 @@ January 28, 2020 – June 30, 2023
 - Radiology: Imaging Cancer (Trainee Editorial Board) (2023 – Present)
 - Reviewer of Abdominal Radiology (2024 - Present)
 - Reviewer of Frontiers in Oncology (2023 – Present)
+- Reviewer of International Journal of Hyperthermia (2024 - Present) 
 - Reviewer of European Radiology (2017 – 2018)
 
 ## Publications
+- Paolucci I, Albuquerque Marques Silva J, **Lin YM**, Shieh A, Ierardi AM, Caraffiello G, Gazzera C, Jones KA, Fonio P, Bale R, Brock KK, Calandri M, Odisio BC. Quantitative Ablation Confirmation Methods in Percutaneous Thermal Ablation of Malignant Liver Tumors: Technical Insights, Clinical Evidence, and Future Outlook. Radiol Imaging Cancer. 2025 May;7(3):e240293.
+- Odisio BC, Albuquerque J, **Lin YM**, Anderson BM, O'Connor CS, Rigaud B, Briones-Dimayuga M, Jones AK, Fellman BM, Huang SY, Kuban J, Metwalli ZA, Sheth R, Habibollahi P, Patel M, Shah KY, Cox VL, Kang HC, Morris VK, Kopetz S, Javle MM, Kaseb A, Tzeng CW, Cao HT, Newhook T, Chun YS, Vauthey JN, Gupta S, Paolucci I, Brock KK. Software-based versus visual assessment of the minimal ablative margin in patients with liver tumours undergoing percutaneous thermal ablation (COVER-ALL): a randomised phase 2 trial. Lancet Gastroenterol Hepatol. 2025 Mar 13:S2468-1253(25)00024-X.
 - Odisio BC, Albuquerque J, **Lin YM**, Anderson BM, O'Connor CS, Rigaud B, Briones-Dimayuga M, Jones AK, Fellman BM, Huang SY, Kuban J, Metwalli ZA, Sheth R, Habibollahi P, Patel M, Shah KY, Cox VL, Kang HC, Morris VK, Kopetz S, Javle MM, Kaseb A, Tzeng CW, Cao HT, Newhook T, Chun YS, Vauthey JN, Gupta S, Paolucci I, Brock KK. Software-based versus visual assessment of the minimal ablative margin in patients with liver tumours undergoing percutaneous thermal ablation (COVER-ALL): a randomised phase 2 trial. Lancet Gastroenterol Hepatol. 2025 Mar 13:S2468-1253(25)00024-X.
 - **Lin YM**, Paolucci I, Albuquerque Marques Silva J, O'Connor CS, Hong J, Shah KY, Abdelsalam ME, Habibollahi P, Jones KA, Brock KK, Odisio BC. Ablative margin quantification using deformable versus rigid image registration in colorectal liver metastasis thermal ablation: a retrospective single-center study. Eur Radiol. 2024 Feb 9.
 - Paolucci I, Albuquerque Marques Silva J, **Lin YM**, Laimer G, Cignini V, Menchini F ,Meira M, Shieh A, O'Connor C, Jones KA, Gazzera C, Fonio P , Brock KK, Calandri M,
