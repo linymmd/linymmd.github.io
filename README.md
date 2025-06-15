@@ -20,11 +20,11 @@ January 28, 2020 – June 30, 2023
 - RSNA R&E Foundation Roentgen Resident/Fellow Research Award
 > RSNA (2024 & 2025)
 
+> - Editor's Recognition Award
+> Radiology: Imaging Cancer (March 2024 & April 2025)
+
 - Interventional Oncology Essential Scholarship
 > Society of Interventional Oncology Annual Meeting, Las Vegas, NV, USA (January 2025)
-
-- Editor's Recognition Award
-> Radiology: Imaging Cancer (March 2024)
 
 - Oral Presentation Award
 > Trainee Research Day, The University of Texas MD Anderson Cancer Center, Houston, TX, USA (March 2024)
