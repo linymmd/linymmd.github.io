@@ -7,6 +7,9 @@ I love music, cycling, jogging, and travel.
 
 ## Postgraduate Training
 ### Fellowships
+- **Clinical Fellow, Department of Abdominal Imaging**, University of Texas MD Anderson Cancer Center, Houston, USA<br>
+July 01, 2025 – present
+
 - **Clinical Fellow, Department of Interventional Radiology**, University of Texas MD Anderson Cancer Center, Houston, USA<br>
 July 01, 2023 – June 30, 2025
 
