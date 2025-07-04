@@ -20,8 +20,11 @@ January 28, 2020 – June 30, 2023
 
 
 ## Honors and Awards
-- RSNA R&E Foundation Roentgen Resident/Fellow Research Award
-> RSNA (2024 & 2025)
+- Honored Educator Award
+> Radiological Society of North America (2025)
+  
+- Radiological Society of North America R&E Foundation Roentgen Resident/Fellow Research Award
+> Radiological Society of North America (2024 & 2025)
 
 - Editor's Recognition Award
 > Radiology: Imaging Cancer (March 2024 & April 2025)
